@@ -83,11 +83,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karanpareek&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NelloGamerz&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=karanpareek&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NelloGamerzk&show_icons=true&theme=radical" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanpareek&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelloGamerzk&layout=compact&theme=tokyonight" />
 </p>
 
 ---
