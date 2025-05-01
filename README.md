@@ -80,7 +80,7 @@
 ## 🏆 GitHub Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=karanpareek&theme=dracula&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NelloGamerz&theme=dracula&column=7" />
 </p>
 
 ---
