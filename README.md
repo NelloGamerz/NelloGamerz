@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/NelloGamerz.png" alt="Karan Pareek" width="200" />
+  <img src="https://github.com/NelloGamerz/NelloGamerz/blob/main/My%20image-modified.png" alt="Karan Pareek" width="200" />
 </p>
 
 ---
