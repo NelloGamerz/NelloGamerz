@@ -103,7 +103,7 @@
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
 - 💥 [Meme Vault](https://meme-vault-blond.vercel.app/)
 - 🌐 [Portfolio](https://personal-portfolio-seven-dusky.vercel.app/)
-- 📧 Email: nellogamerz1112@gmail.com
+- 📧 Email: softwaredev1112@gmail.com
 
 ---
 
