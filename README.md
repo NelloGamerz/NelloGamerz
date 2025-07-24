@@ -27,7 +27,7 @@
 - 🖥️ **Portfolio**: [Karan Pareek](https://personal-portfolio-seven-dusky.vercel.app/)  
 - 🧠 **LeetCode**: [NelloG](https://leetcode.com/u/NelloG/)  
 - 🤖 **AI Tools**: [V0.dev](https://v0.dev), [Bolt](https://boltai.com), [OpenAI](https://openai.com)  
-- 🔥 **Meme Vault**: [Visit App](https://meme-vault-blond.vercel.app/)
+- 🔥 **Meme Vault**: [Visit App](https://meme-vault-ten.vercel.app/)
 
 ---
 
