@@ -101,7 +101,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-pareek-337067270)
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
-- 💥 [Meme Vault](https://meme-vault-blond.vercel.app/)
+- 💥 [Meme Vault](https://meme-vault-ten.vercel.app/)
 - 🌐 [Portfolio](https://personal-portfolio-seven-dusky.vercel.app/)
 - 📧 Email: softwaredev1112@gmail.com
 
