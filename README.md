@@ -101,9 +101,9 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-pareek-337067270)
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
-- 💥 [Meme Vault](https://mekoole.com/)
+- 💥 [Mekoole](https://mekoole.com/)
 - 🌐 [Portfolio](https://personal-portfolio-seven-dusky.vercel.app/)
-- 📧 Email: softwaredev1112@gmail.com
+- 📧 Email: karanpareek1112@gmail.com
 
 ---
 
