@@ -14,7 +14,6 @@
 ## 🧠 About Me
 
 - 🎓 Computer Science Engineer from GGSIPU  
-- 💼 Currently building **Meme Vault** – a full-stack meme-sharing platform  
 - 🧠 Passionate about **AI-driven UI/UX**, custom tools, and modern app development  
 - 🛠️ Love working across the **full stack** from pixel-perfect frontends to secure backend APIs  
 - 🎯 Consistent problem solver on **LeetCode**  
@@ -27,7 +26,6 @@
 - 🖥️ **Portfolio**: [Karan Pareek](https://personal-portfolio-seven-dusky.vercel.app/)  
 - 🧠 **LeetCode**: [NelloG](https://leetcode.com/u/NelloG/)  
 - 🤖 **AI Tools**: [V0.dev](https://v0.dev), [Bolt](https://boltai.com), [OpenAI](https://openai.com)  
-- 🔥 **Meme Vault**: [Visit App](https://meme-vault-ten.vercel.app/)
 
 ---
 
@@ -106,7 +104,6 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-pareek-337067270)
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
-- 💥 [Mekoole](https://mekoole.com/)
 - 🌐 [Portfolio](https://personal-portfolio-seven-dusky.vercel.app/)
 - 📧 Email: karanpareek1112@gmail.com
 
