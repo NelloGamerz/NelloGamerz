@@ -104,7 +104,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-pareek-337067270)
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
-- 🌐 [Portfolio](https://personal-portfolio-seven-dusky.vercel.app/)
+- 🌐 [Instagram](https://www.instagram.com/kpareek_03/)
 - 📧 Email: karanpareek1112@gmail.com
 
 ---
