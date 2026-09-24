@@ -122,19 +122,11 @@ class KaranPareek(Engineer):
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NelloGamerz&theme=dracula&column=7&no-frame=true&margin-w=10" alt="GitHub trophies" />
+<img src="https://raw.githubusercontent.com/NelloGamerz/NelloGamerz/output-stats/stats.svg" width="100%" alt="GitHub metrics: contributions, streaks, repos, stars, pull requests, followers" />
 
-<br/>
+<img src="https://raw.githubusercontent.com/NelloGamerz/NelloGamerz/output-stats/languages.svg" width="100%" alt="Language weights across original repositories" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=NelloGamerz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NelloGamerz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelloGamerz&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NelloGamerz&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=f64f59&area=true&area_color=8b5cf6&hide_border=true" width="100%" alt="Contribution activity graph" />
-
-<br/>
+<img src="https://raw.githubusercontent.com/NelloGamerz/NelloGamerz/output-stats/activity.svg" width="100%" alt="Contribution activity over the last 52 weeks" />
 
 <img src="https://raw.githubusercontent.com/NelloGamerz/NelloGamerz/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
 
