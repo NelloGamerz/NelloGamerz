@@ -1,112 +1,152 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#f64f59;">Karan Pareek</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 AI Explorer | 🎯 Software Craftsman</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76B8A&center=true&width=435&lines=I+build+impactful+full-stack+apps;Exploring+AI-powered+development;Let's+build+something+amazing!" alt="Typing SVG" />
-</p>
+<img src="./assets/header.svg" width="100%" alt="Karan Pareek — Full-Stack Developer, AI Explorer, Software Craftsman" />
 
-<p align="center">
-  <img src="https://github.com/NelloGamerz/NelloGamerz/blob/main/My%20image-modified.png" alt="Karan Pareek" width="200" />
-</p>
+<a href="https://github.com/NelloGamerz">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=620&height=45&lines=I+build+impactful+full-stack+apps;Exploring+AI-powered+development;Secure+APIs+%E2%86%92+pixel-perfect+UIs;Let's+build+something+amazing!" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## 🧠 About Me
+<a href="https://personal-portfolio-seven-dusky.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/karan-pareek-337067270"><img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/NelloG/"><img src="https://img.shields.io/badge/LeetCode-f64f59?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://www.instagram.com/kpareek_03/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=f64f59" alt="Instagram"/></a>
+<a href="mailto:karanpareek1112@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email"/></a>
 
-- 🎓 Computer Science Engineer from GGSIPU  
-- 🧠 Passionate about **AI-driven UI/UX**, custom tools, and modern app development  
-- 🛠️ Love working across the **full stack** from pixel-perfect frontends to secure backend APIs  
-- 🎯 Consistent problem solver on **LeetCode**  
-- ⚡ Always curious. Always building.
+<br/><br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
----
+</div>
 
-## 💼 Portfolio & Featured Work
+## 🧠 Model Card
 
-- 🖥️ **Portfolio**: [Karan Pareek](https://personal-portfolio-seven-dusky.vercel.app/)  
-- 🧠 **LeetCode**: [NelloG](https://leetcode.com/u/NelloG/)  
-- 🤖 **AI Tools**: [V0.dev](https://v0.dev), [Bolt](https://boltai.com), [OpenAI](https://openai.com)  
+<table>
+<tr>
+<td width="220" align="center">
+  <img src="https://github.com/NelloGamerz/NelloGamerz/blob/main/My%20image-modified.png?raw=true" alt="Karan Pareek" width="200" />
+</td>
+<td>
 
----
+```python
+class KaranPareek(Engineer):
+    education = "Computer Science Engineering @ GGSIPU"
+    focus     = ["AI-driven UI/UX", "Custom tools", "Modern app development"]
+    range     = "Full stack: pixel-perfect frontends to secure backend APIs"
+    practice  = "Consistent problem solver on LeetCode"
+    mindset   = "Always curious. Always building."
+```
 
-## 🧰 Tech Stack
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+## 🖥️ Featured Work
 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=architectural-digest&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+- 🖥️ **Portfolio:** [Karan Pareek](https://personal-portfolio-seven-dusky.vercel.app/)
+- 🧠 **LeetCode:** [NelloG](https://leetcode.com/u/NelloG/)
+- 🤖 **AI tools:** [V0.dev](https://v0.dev) · [Bolt](https://boltai.com) · [OpenAI](https://openai.com)
 
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+## 🧰 Network Architecture
 
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+<div align="center">
 
+**Input layer · Languages**
 
----
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-## 🧠 AI Tools in Use
+**Hidden layer 1 · Frontend**
 
-- ⚡ **[V0.dev](https://v0.dev)** – Instant UI generation  
-- 🤖 **[Bolt](https://boltai.com)** – Design & Code Assistant  
-- 🧠 **[OpenAI](https://openai.com)** – Smart GPT integrations
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
----
+**Hidden layer 2 · Backend & APIs**
 
-## 🏆 GitHub Trophy Wall
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge&logo=architectural-digest&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=api&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NelloGamerz&theme=dracula&column=7" />
-</p>
+**Hidden layer 3 · Data**
 
----
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 
-## 📊 GitHub Stats
+**Hidden layer 4 · Cloud & infrastructure**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NelloGamerz&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NelloGamerz&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelloGamerz&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
 
----
+**Output layer · Tools & integrations**
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<br/><br/>
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+</div>
+
+## ⚡ AI Tools in Use
+
+| Tool | Role |
+| --- | --- |
+| **[V0.dev](https://v0.dev)** | Instant UI generation |
+| **[Bolt](https://boltai.com)** | Design & code assistant |
+| **[OpenAI](https://openai.com)** | Smart GPT integrations |
+
+<div align="center"><img src="./assets/divider.svg" width="100%" alt="" /></div>
+
+## 📊 Training Metrics
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NelloGamerz&theme=dracula&column=7&no-frame=true&margin-w=10" alt="GitHub trophies" />
+
+<br/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=NelloGamerz&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NelloGamerz&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22d3ee&icon_color=8b5cf6&text_color=cbd5e1" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NelloGamerz&layout=compact&hide_border=true&bg_color=0d1117&title_color=22d3ee&text_color=cbd5e1" alt="Top languages" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NelloGamerz&bg_color=0d1117&color=22d3ee&line=8b5cf6&point=f64f59&area=true&area_color=8b5cf6&hide_border=true" width="100%" alt="Contribution activity graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/NelloGamerz/NelloGamerz/output/github-snake-dark.svg" width="100%" alt="Contribution snake" />
+
+</div>
 
 ## 🌐 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/karan-pareek-337067270)
 - 🧠 [LeetCode](https://leetcode.com/u/NelloG/)
 - 🌐 [Instagram](https://www.instagram.com/kpareek_03/)
-- 📧 Email: karanpareek1112@gmail.com
+- 📧 karanpareek1112@gmail.com
 
----
+<br/>
 
-> _"Striving for simplicity, building with precision, dreaming with code."_
+<img src="./assets/footer.svg" width="100%" alt="Let's build something amazing." />
